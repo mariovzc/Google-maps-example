@@ -31,7 +31,6 @@ Disponible solo para iPhone con iOS 9++
 - iPhone 6s
 - iPhone 6s Plus
 - iPhone SE
-- 
 
 ### Mario Vizcaino  
 
