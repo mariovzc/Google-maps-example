@@ -1,5 +1,12 @@
 # BitGray
 
+prueba bitgray
+
+## DEPENDENCIAS
+
+NESECITAS CORRER COCOA PODS
+
+pod install  <- OBLIGATORIO PARA CORRER
 ## Descripción
 
 La aplicacioón muestra en el mapa 3 usuarios aleatorios obtenidos desde una api, el rojo indica el usuario actual, amarillo el mas lejano y el azul el cercano.
